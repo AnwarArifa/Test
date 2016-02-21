@@ -44,6 +44,7 @@ public class LoginPageObject {
 	 * click on the sign in button in the login page
 	 */
 	public void clickSigninButton() {
+		System.out.println("click button");
 		browser.findElement(By.cssSelector("#sigin_info > a:nth-child(1)"))
 				.click();
 	}
