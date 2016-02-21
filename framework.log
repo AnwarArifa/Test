@@ -1,0 +1,45 @@
+2015-04-30 05:23:43 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:23:43 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:23:44 ERROR JDBCConnector:71 - Unable to connect to database, please check the url/username/pwd data in property filejava.sql.SQLException: Access denied for user 'anwar'@'localhost' (using password: NO)
+2015-04-30 05:23:44 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:23:44 ERROR LoginDataProvider:25 - no db connection available, connection is null
+2015-04-30 05:26:40 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:26:40 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:26:41 ERROR JDBCConnector:71 - Unable to connect to database, please check the url/username/pwd data in property filejava.sql.SQLException: Access denied for user 'anwar'@'localhost' (using password: NO)
+2015-04-30 05:26:41 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:26:41 ERROR LoginDataProvider:25 - no db connection available, connection is null
+2015-04-30 05:30:20 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:30:20 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:30:20 ERROR JDBCConnector:71 - Unable to connect to database, please check the url/username/pwd data in property filejava.sql.SQLException: Access denied for user 'anwar'@'localhost' (using password: NO)
+2015-04-30 05:30:20 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:30:20 ERROR LoginDataProvider:25 - no db connection available, connection is null
+2015-04-30 05:30:48 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:30:48 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:30:48 ERROR JDBCConnector:71 - Unable to connect to database, please check the url/username/pwd data in property filejava.sql.SQLException: Access denied for user 'anwar'@'localhost' (using password: NO)
+2015-04-30 05:30:48 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:30:48 ERROR LoginDataProvider:25 - no db connection available, connection is null
+2015-04-30 05:32:36 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:32:36 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:32:36 ERROR JDBCConnector:71 - Unable to connect to database, please check the url/username/pwd data in property filejava.sql.SQLException: Access denied for user 'anwar'@'localhost' (using password: NO)
+2015-04-30 05:32:36 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:32:36 ERROR LoginDataProvider:25 - no db connection available, connection is null
+2015-04-30 05:33:40 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:33:40 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:33:40 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:33:40 INFO  LoginDataProvider:118 - got the data from db exiting login data provider
+2015-04-30 05:43:54 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:43:54 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:43:54 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:43:54 INFO  LoginDataProvider:118 - got the data from db exiting login data provider
+2015-04-30 05:47:05 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:47:05 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:47:05 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:47:05 INFO  LoginDataProvider:118 - got the data from db exiting login data provider
+2015-04-30 05:53:21 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 05:53:21 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 05:53:21 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 05:53:21 INFO  LoginDataProvider:118 - got the data from db exiting login data provider
+2015-04-30 06:01:30 INFO  LoginDataProvider:19 - started collecting invalid login data
+2015-04-30 06:01:30 INFO  JDBCConnector:29 - started to get the jdbc connection
+2015-04-30 06:01:31 INFO  JDBCConnector:75 - exiting form jdbc connection method
+2015-04-30 06:01:31 INFO  LoginDataProvider:118 - got the data from db exiting login data provider
